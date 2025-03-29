@@ -1,2 +1,6 @@
-pytest
 duckdb
+fastparquet
+numpy
+pandas
+pyarrow
+pytest
